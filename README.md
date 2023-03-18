@@ -5,7 +5,7 @@ This is a small visualizer for a solution to the [Advent of Code 2022 Day 14](ht
 I was playing around with ggez for Rust game development and wanted to experiment a bit with rendering many objects.
 By my head math the default settings of this project with the provided input map will drop ~20-30,000 grains of sand, and on my computer do it all at a happy 60 FPS :)
 
-![Dropping!}(/dropping.webm)
+![Dropping!}(/dropping.gif)
 The dropper in action!
 
 ### Writing custom input
